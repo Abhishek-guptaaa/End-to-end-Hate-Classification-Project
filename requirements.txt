@@ -1,0 +1,24 @@
+pandas
+numpy==1.21.0
+seaborn
+matplotlib
+nltk
+tensorflow==2.9.3
+keras
+regex
+scikit-learn
+from-root
+flask # to run fastapi application used this three library
+pydantic
+Jinja2==3.1.2
+python-dotenv
+pymongo
+scikit-learn
+pydantic
+-e .
+
+
+
+
+
+pydantic
