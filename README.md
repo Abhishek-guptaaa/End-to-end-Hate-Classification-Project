@@ -8,3 +8,5 @@ conda activate venv/
 pip install -r requirements.txt
 
 python mongo.py
+
+python hate\components\data_ingestion.py
