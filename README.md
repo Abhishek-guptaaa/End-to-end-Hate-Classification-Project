@@ -10,3 +10,7 @@ pip install -r requirements.txt
 python mongo.py
 
 python hate\components\data_ingestion.py
+
+python main.py
+
+python hate\pipelines\training_pipeline.py
