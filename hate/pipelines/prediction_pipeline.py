@@ -28,8 +28,8 @@ class PredictionPipeline:
         pred = prediction[0][0]
         print("Prediction Score:", pred)  # Debugging step
         if pred > 0.3:
-            print("hate and abusive")
-            return "hate and abusive"
+            print("This statement expresses strong **negative sentiment** towards the sentence.")
+            return "This statement expresses strong **negative sentiment** towards the sentence."
         else:
-            print("no hate")
-            return "no hate"
+            print("This statement expresses strong **positive sentiment** towards the sentence.")
+            return "This statement expresses strong **positive sentiment** towards the sentence."
