@@ -82,3 +82,6 @@ AWS_REGION = us-east-1
 
 AWS_ECR_LOGIN_URI =   730335610052.dkr.ecr.us-east-1.amazonaws.com
 ECR_REPOSITORY_NAME = nlp_project
+
+
+Note: Streamlit run on this port: 8501
