@@ -16,6 +16,3 @@ python main.py
 python hate\pipelines\training_pipeline.py
 
 streamlit run app.py
-
-
-
