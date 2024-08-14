@@ -80,5 +80,5 @@ AWS_SECRET_ACCESS_KEY=
 
 AWS_REGION = us-east-1
 
-AWS_ECR_LOGIN_URI = demo>>  730335610052.dkr.ecr.us-east-1.amazonaws.com
+AWS_ECR_LOGIN_URI =   730335610052.dkr.ecr.us-east-1.amazonaws.com
 ECR_REPOSITORY_NAME = nlp_project
